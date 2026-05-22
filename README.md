@@ -8,7 +8,7 @@
 
 Senior software engineer building tools to modernize the industrial controls world and PLCs.
 
-### Languages
+### Languages <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png" width="36" alt="Rainbow Badge" />
 
 <p>
   <img src="https://img.shields.io/badge/Go-7C3AED?style=for-the-badge&logo=go&logoColor=white" alt="Go" />

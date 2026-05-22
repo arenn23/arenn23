@@ -54,10 +54,10 @@
     alt="React"
   />
   <img
-    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/214.png"
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/132.png"
     width="52"
     hspace="5"
     align="middle"
-    alt="Shiny_Heracross_Sprite"
+    alt="Shiny_Ditto_Sprite"
   />
 </p>

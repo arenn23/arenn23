@@ -54,10 +54,10 @@
     alt="React"
   /><!--
   --><img
-    src="assets/shiny_ditto.png"
+    src="assets/shiny_heracross.png"
     width="40"
     align="middle"
     hspace="13"
-    alt="Shiny_Ditto_Sprite"
+    alt="Shiny_Heracross_Sprite"
   />
 </p>

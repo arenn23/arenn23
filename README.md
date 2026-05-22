@@ -54,8 +54,8 @@
     alt="React"
   /><!--
   --><img
-    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/132.gif"
-    width="56"
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/132.png"
+    width="72"
     align="middle"
     alt="Shiny_Ditto_Sprite"
   />

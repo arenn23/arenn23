@@ -16,5 +16,5 @@ Senior software engineer building tools to modernize the industrial controls wor
   <img src="https://img.shields.io/badge/C%23-A855F7?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-A855F7?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/214.png" width="48" hspace="10" alt="Shiny_Heracross_Sprite" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/214.png" width="36" hspace="10" alt="Shiny_Heracross_Sprite" />
 </p>

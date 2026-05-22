@@ -14,7 +14,14 @@
 
 </div>
 
-Senior software engineer building tools to modernize the industrial controls world and PLCs.
+<div align="center">
+
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Senior+software+engineer+building+tools+to+modernize+the+industrial+controls+world+and+PLCs."
+    alt="Senior software engineer building tools to modernize the industrial controls world and PLCs."
+  />
+
+</div>
 
 ### Languages
 

@@ -6,7 +6,7 @@
   />
 
   <img
-    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/446.gif"
+    src="assets/shiny_munchlax_showdown.gif"
     width="140"
     vspace="15"
     alt="Shiny_Munchlax_Showdown_Sprite"
@@ -27,7 +27,7 @@
 
 <p>
   <img
-    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png"
+    src="assets/rainbow_badge.png"
     width="24"
     hspace="10"
     align="middle"
@@ -54,7 +54,7 @@
     alt="React"
   /><!--
   --><img
-    src="shiny_ditto.png"
+    src="assets/shiny_ditto.png"
     width="40"
     align="middle"
     hspace="10"

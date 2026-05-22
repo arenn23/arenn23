@@ -28,7 +28,7 @@
 <p>
   <img
     src="assets/rainbow_badge.png"
-    width="24"
+    width="28"
     hspace="10"
     align="middle"
     alt="Rainbow Badge"

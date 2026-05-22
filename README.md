@@ -8,10 +8,10 @@
 
 Senior software engineer building tools to modernize the industrial controls world and PLCs.
 
-### Languages <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png" width="36" alt="Rainbow Badge" />
+### Languages
 
 <p>
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png" width="24" alt="Rainbow Badge" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/badges/4.png" width="24" hspace="10" alt="Rainbow Badge" />
   <img src="https://img.shields.io/badge/Go-7C3AED?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/C%23-A855F7?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />

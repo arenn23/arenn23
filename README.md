@@ -57,7 +57,7 @@
     src="assets/shiny_ditto.png"
     width="40"
     align="middle"
-    hspace="10"
+    hspace="13"
     alt="Shiny_Ditto_Sprite"
   />
 </p>

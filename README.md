@@ -56,7 +56,6 @@
   <img
     src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/132.png"
     width="72"
-    hspace="1"
     align="middle"
     alt="Shiny_Ditto_Sprite"
   />

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,50:7C3AED,100:A855F7&height=160&section=header&text=arenn&fontSize=64&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="header" />
 
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/446.gif" width="140" alt="Shiny_Munchlax_Showdown_Sprite" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/446.gif" width="140" vspace="15" alt="Shiny_Munchlax_Showdown_Sprite" />
 
 </div>
 

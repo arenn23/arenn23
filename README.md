@@ -7,7 +7,7 @@
 
   <img
     src="assets/shiny_munchlax_showdown.gif"
-    width="130"
+    width="47"
     vspace="15"
     alt="Shiny_Munchlax_Showdown_Sprite"
   />

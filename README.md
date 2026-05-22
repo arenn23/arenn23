@@ -55,7 +55,7 @@
   /><!--
   --><img
     src="assets/shiny_heracross.png"
-    width="38"
+    width="40"
     align="middle"
     hspace="13"
     alt="Shiny_Heracross_Sprite"
